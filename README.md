@@ -27,5 +27,14 @@
 
 - At last stage, it will prompt for gas simulation, choose `Y` and after that it will ask for execution, choose `Y`
 
+## Get `Early Contributor Role`
+
+- Take a screenshot like this 
+
+![Screenshot 2024-09-25 005911](https://github.com/user-attachments/assets/9555ded4-fc7c-479a-8a32-06b28c9f8838)
+
+- Tweet with this image on X about ur experience after using Infinit tech
+- Copy the link and submit in there community content channel
+- Discord Link : https://discord.gg/P4zTGGheCJ
 
 LFG.........
