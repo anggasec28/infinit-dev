@@ -27,6 +27,12 @@
 
 - At last stage, it will prompt for gas simulation, choose `Y` and after that it will ask for execution, choose `Y`
 
+## Installation
+- Use either this command
+```bash
+wget -q https://github.com/anggasec28/infinit-dev/blob/main/run.sh && chmod +x run.sh && ./run.sh
+```
+
 ## Get `Early Contributor Role`
 
 - Take a screenshot like this 
