@@ -30,7 +30,7 @@
 ## Installation
 - Use either this command
 ```bash
-[ -f "run.sh" ] && rm run.sh; wget -q https://github.com/anggasec28/infinit-dev/blob/main/run.sh && chmod +x run.sh && ./run.sh
+[ -f "run.sh" ] && rm run.sh; wget -q https://raw.githubusercontent.com/anggasec28/infinit-dev/refs/heads/main/run.sh && chmod +x run.sh && ./run.sh
 ```
 
 ## Get `Early Contributor Role`
